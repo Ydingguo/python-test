@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+redis
+llama-index
+llama-index-llms-openai-like
+llama-index-embeddings-huggingface
+pymupdf4llm
